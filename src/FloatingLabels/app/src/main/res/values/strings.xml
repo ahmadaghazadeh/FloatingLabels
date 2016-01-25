@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">EditText Floating Labels Demo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_error">Username can not be empty</string>
+</resources>
